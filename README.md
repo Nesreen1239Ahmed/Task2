@@ -26,6 +26,6 @@
 # remotely => git push origin : TagName
 
 
-"![Alt text](./images/download.png)"
+"![any thing](./images/download.png)"
 
 
